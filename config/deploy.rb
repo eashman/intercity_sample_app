@@ -2,7 +2,7 @@
 lock '3.1.0'
 
 set :application, 'intercity_sample_app'
-set :repo_url, 'git@github.com:intercity/intercity_sample_app.git'
+set :repo_url, 'https://github.com/eashman/intercity_sample_app.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
